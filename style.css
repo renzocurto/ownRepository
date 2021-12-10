@@ -1,0 +1,79 @@
+body {
+
+    background-color: rgb(240, 230, 218);
+}
+
+h1 {
+color: red;
+
+letter-spacing: 5px;
+
+text-transform: uppercase;
+
+
+}
+
+h2 {
+    color: grey;
+
+    font-style: bold;
+}
+
+h3, h4 {
+
+    color: brown;
+
+    font-style: oblique;
+
+    font-family: Helvetica
+}
+
+a {
+
+    color: lightcoral;
+}
+
+img {
+
+    border-radius: 5px;
+
+}
+
+
+p {
+
+    color: orangered;
+}
+
+
+
+ul {
+
+    text-transform: uppercase;
+
+    text-align: right;
+
+    
+   
+}
+li {
+
+    border-color: black 2px solid;
+
+    display: inline;
+
+    margin-right: 10px;
+}
+
+
+
+.img {
+
+    border: 1px solid red;
+}
+
+.logo {
+    position: relative;
+
+    left: 50%;
+}
